@@ -16,7 +16,7 @@ def welcome():
 
 
   dataPost = {
-    'message': 'Posting to Epilog!'
+    'thumbnail': 'http://images.clipartpanda.com/laughing-smiley-face-clip-art-smiley-face-clip-art10.jpeg'
   }
 
   if request.method == 'POST':
